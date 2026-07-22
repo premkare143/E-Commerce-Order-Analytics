@@ -42,7 +42,7 @@ This project analyzes e-commerce order data to uncover trends in sales, customer
 ## 📂 Project Structure
 
 ```
-Internship_Project/
+E-Commerce-Order-Analytics/
 │
 ├── raw/
 │   └── Dataset.xlsx              # Original, unprocessed order data
